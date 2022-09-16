@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521585453466",
+    "project_id": "hybrid-notesapp",
+    "storage_bucket": "hybrid-notesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521585453466:android:d41383c0d7a8470617f223",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521585453466-veqme43i13bl3g2vh842rc0qqt4rh4o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxV2egxZV075lJlp1Pv85gaLDWTKbMtAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521585453466-veqme43i13bl3g2vh842rc0qqt4rh4o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
